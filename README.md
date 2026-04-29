@@ -1,4 +1,3 @@
-# speech-emotion-recognition
 
 <div align="center">
 
