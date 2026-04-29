@@ -1,0 +1,12 @@
+# Dataset — too large for GitHub
+data/
+
+# Model outputs
+*.h5
+*.keras
+__pycache__/
+*.pyc
+.env
+
+# Plots (optional — remove these lines if you want to include them)
+*.png
